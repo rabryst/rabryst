@@ -6,6 +6,8 @@ I am autistic, and unapologetically queer. My pronouns are [_they/them/theirs_](
 
 In the mid-1980s I learned BASIC on a CreatiVision console. I upgraded to GW-BASIC, QBASIC, Turbo Pascal, Visual Basic, and finally C# (my language of choice). I know a little bit about SQL Server as well.
 
+In January 2022 I started [working at Microsoft](https://github.com/rwestMSFT) in the SQL Docs team.
+
 - [Personal blog](https://randolphwest.ca/blog)
 - [SQL Server blog](https://bornsql.ca/blog)
 - [IMDb page](http://imdb.me/randolphwest)
